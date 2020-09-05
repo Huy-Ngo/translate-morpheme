@@ -13,8 +13,11 @@ Rules are written as follow:
 - words are separated by a space
 - morphemes are separated by a dot (.)
 - a morpheme representing multiple units can have underscore
-- reserved morpheme: `APOSTROPHE` for apostrophe (`'`)
 
 Convention: morphemes that denote the meaning of the words are written in lowercase, morphemes that denote declension or conjugation are written in uppercase.
 
 For examples, see the rules and morphemes written in `test/`
+
+# Disclaimer
+
+The outputed results can be slightly different from expected. The final full stop may be missing.
