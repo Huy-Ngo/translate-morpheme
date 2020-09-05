@@ -1,0 +1,60 @@
+I_NOM have.I_CONJ an.AN_ACC_MASC red.ACC_MASC_MIXED apple.
+I_NOM have.I_CONJ red.ACC_PLU_STRONG apple_PLU.
+I_NOM have.I_CONJ the_ACC_MASC red.ACC_MASC_WEAK apple.
+I_NOM have.I_CONJ the_ACC_PLU red.ACC_PLU_WEAK apple_PLU.
+WE_NOM have.PLU_CONJ an.AN_ACC_MASC red.ACC_MASC_MIXED apple.
+WE_NOM have.PLU_CONJ red.ACC_PLU_STRONG apple_PLU.
+WE_NOM have.PLU_CONJ the_ACC_MASC red.ACC_MASC_WEAK apple.
+WE_NOM have.PLU_CONJ the_ACC_PLU red.ACC_PLU_WEAK apple_PLU.
+THEY_NOM have.PLU_CONJ an.AN_ACC_MASC red.ACC_MASC_MIXED apple.
+THEY_NOM have.PLU_CONJ red.ACC_PLU_STRONG apple_PLU.
+THEY_NOM have.PLU_CONJ the_ACC_MASC red.ACC_MASC_WEAK apple.
+THEY_NOM have.PLU_CONJ the_ACC_PLU red.ACC_PLU_WEAK apple_PLU.
+YOU_NOM have.YOU_CONJ an.AN_ACC_MASC red.ACC_MASC_MIXED apple.
+YOU_NOM have.YOU_CONJ red.ACC_PLU_STRONG apple_PLU.
+YOU_NOM have.YOU_CONJ the_ACC_MASC red.ACC_MASC_WEAK apple.
+YOU_NOM have.YOU_CONJ the_ACC_PLU red.ACC_PLU_WEAK apple_PLU.
+That BE_3RD_SING an red.NOM_MASC_MIXED apple.
+That BE_3RD_PLU red.NOM_MASC_STRONG apple_PLU.
+That BE_3RD_SING the_NOM_MASC red.NOM_MASC_WEAK apple.
+That BE_3RD_PLU the_NOM_PLU red.NOM_MASC_STRONG apple_PLU.
+I_NOM have.I_CONJ an.AN_ACC_MASC green.ACC_MASC_MIXED apple.
+I_NOM have.I_CONJ green.ACC_PLU_STRONG apple_PLU.
+I_NOM have.I_CONJ the_ACC_MASC green.ACC_MASC_WEAK apple.
+I_NOM have.I_CONJ the_ACC_PLU green.ACC_PLU_WEAK apple_PLU.
+WE_NOM have.PLU_CONJ an.AN_ACC_MASC green.ACC_MASC_MIXED apple.
+WE_NOM have.PLU_CONJ green.ACC_PLU_STRONG apple_PLU.
+WE_NOM have.PLU_CONJ the_ACC_MASC green.ACC_MASC_WEAK apple.
+WE_NOM have.PLU_CONJ the_ACC_PLU green.ACC_PLU_WEAK apple_PLU.
+THEY_NOM have.PLU_CONJ an.AN_ACC_MASC green.ACC_MASC_MIXED apple.
+THEY_NOM have.PLU_CONJ green.ACC_PLU_STRONG apple_PLU.
+THEY_NOM have.PLU_CONJ the_ACC_MASC green.ACC_MASC_WEAK apple.
+THEY_NOM have.PLU_CONJ the_ACC_PLU green.ACC_PLU_WEAK apple_PLU.
+YOU_NOM have.YOU_CONJ an.AN_ACC_MASC green.ACC_MASC_MIXED apple.
+YOU_NOM have.YOU_CONJ green.ACC_PLU_STRONG apple_PLU.
+YOU_NOM have.YOU_CONJ the_ACC_MASC green.ACC_MASC_WEAK apple.
+YOU_NOM have.YOU_CONJ the_ACC_PLU green.ACC_PLU_WEAK apple_PLU.
+That BE_3RD_SING an green.NOM_MASC_MIXED apple.
+That BE_3RD_PLU green.NOM_MASC_STRONG apple_PLU.
+That BE_3RD_SING the_NOM_MASC green.NOM_MASC_WEAK apple.
+That BE_3RD_PLU the_NOM_PLU green.NOM_MASC_STRONG apple_PLU.
+I_NOM have.I_CONJ an.AN_ACC_MASC good.ACC_MASC_MIXED apple.
+I_NOM have.I_CONJ good.ACC_PLU_STRONG apple_PLU.
+I_NOM have.I_CONJ the_ACC_MASC good.ACC_MASC_WEAK apple.
+I_NOM have.I_CONJ the_ACC_PLU good.ACC_PLU_WEAK apple_PLU.
+WE_NOM have.PLU_CONJ an.AN_ACC_MASC good.ACC_MASC_MIXED apple.
+WE_NOM have.PLU_CONJ good.ACC_PLU_STRONG apple_PLU.
+WE_NOM have.PLU_CONJ the_ACC_MASC good.ACC_MASC_WEAK apple.
+WE_NOM have.PLU_CONJ the_ACC_PLU good.ACC_PLU_WEAK apple_PLU.
+THEY_NOM have.PLU_CONJ an.AN_ACC_MASC good.ACC_MASC_MIXED apple.
+THEY_NOM have.PLU_CONJ good.ACC_PLU_STRONG apple_PLU.
+THEY_NOM have.PLU_CONJ the_ACC_MASC good.ACC_MASC_WEAK apple.
+THEY_NOM have.PLU_CONJ the_ACC_PLU good.ACC_PLU_WEAK apple_PLU.
+YOU_NOM have.YOU_CONJ an.AN_ACC_MASC good.ACC_MASC_MIXED apple.
+YOU_NOM have.YOU_CONJ good.ACC_PLU_STRONG apple_PLU.
+YOU_NOM have.YOU_CONJ the_ACC_MASC good.ACC_MASC_WEAK apple.
+YOU_NOM have.YOU_CONJ the_ACC_PLU good.ACC_PLU_WEAK apple_PLU.
+That BE_3RD_SING an good.NOM_MASC_MIXED apple.
+That BE_3RD_PLU good.NOM_MASC_STRONG apple_PLU.
+That BE_3RD_SING the_NOM_MASC good.NOM_MASC_WEAK apple.
+That BE_3RD_PLU the_NOM_PLU good.NOM_MASC_STRONG apple_PLU.
