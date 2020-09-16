@@ -24,11 +24,20 @@ def capitalize(sentence):
     return sentence[0].upper() + sentence[1:]
 
 
+def split_word(word):
+    morphemes = word.split('.')
+    if len(morphemes) > 0 and len(morphemes[-1]) > 0 and morphemes[-1][-1] in [',', '?', ';', ':', '!']:
+        punctuation = morphemes[-1][-1]
+        morphemes[-1] = morphemes[-1][:-1]
+        morphemes.append(punctuation)
+    return morphemes
+
+
 def translate_sentence(sentence, rules):
     return ' '.join([
         ''.join([
-            rules[morpheme] if morpheme != '' else ''
-            for morpheme in word.split('.')
+            rules[morpheme] if morpheme in rules else morpheme
+            for morpheme in split_word(word)
         ]) for word in sentence.split(' ')
     ])
 
